@@ -28,6 +28,8 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  twitter_api_v2: ^4.9.3
+  percent_indicator: ^4.2.2
   flutter:
     sdk: flutter
 
